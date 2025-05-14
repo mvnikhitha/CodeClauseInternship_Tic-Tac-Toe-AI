@@ -1,4 +1,4 @@
-# 🤖 Tic-Tac-Toe AI🎮
+# 🤖 Tic-Tac-Toe AI (TASK 1)🎮
 
 This project is a simple Tic-Tac-Toe game implemented using Python and GUI. The game features an unbeatable AI opponent that uses the **Minimax algorithm** to make optimal moves. Created as part of the **CodeClause Internship**.
 
