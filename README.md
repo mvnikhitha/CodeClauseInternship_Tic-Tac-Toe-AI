@@ -6,7 +6,7 @@ This project is a simple Tic-Tac-Toe game implemented using Python and GUI. The 
 
 ## 📌 Features
 
-- Human vs AI gameplay (You play as **O**, AI plays as **X**)
+- Human vs AI gameplay
 - Smart AI that never loses (Minimax Algorithm)
 - User-friendly GUI interface
 - Detects win, lose, or draw outcomes
